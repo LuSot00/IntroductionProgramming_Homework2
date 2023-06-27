@@ -1,0 +1,15 @@
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Exercise15\bin\Debug\net6.0\Exercise15.exe
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Exercise15\bin\Debug\net6.0\Exercise15.deps.json
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Exercise15\bin\Debug\net6.0\Exercise15.runtimeconfig.json
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Exercise15\bin\Debug\net6.0\Exercise15.dll
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Exercise15\bin\Debug\net6.0\Exercise15.pdb
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Exercise15\obj\Debug\net6.0\Exercise15.csproj.AssemblyReference.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Exercise15\obj\Debug\net6.0\Exercise15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Exercise15\obj\Debug\net6.0\Exercise15.AssemblyInfoInputs.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Exercise15\obj\Debug\net6.0\Exercise15.AssemblyInfo.cs
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Exercise15\obj\Debug\net6.0\Exercise15.csproj.CoreCompileInputs.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Exercise15\obj\Debug\net6.0\Exercise15.dll
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Exercise15\obj\Debug\net6.0\refint\Exercise15.dll
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Exercise15\obj\Debug\net6.0\Exercise15.pdb
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Exercise15\obj\Debug\net6.0\Exercise15.genruntimeconfig.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Exercise15\obj\Debug\net6.0\ref\Exercise15.dll
