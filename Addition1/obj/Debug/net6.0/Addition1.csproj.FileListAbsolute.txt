@@ -1,0 +1,15 @@
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Addition1\bin\Debug\net6.0\Addition1.exe
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Addition1\bin\Debug\net6.0\Addition1.deps.json
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Addition1\bin\Debug\net6.0\Addition1.runtimeconfig.json
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Addition1\bin\Debug\net6.0\Addition1.dll
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Addition1\bin\Debug\net6.0\Addition1.pdb
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Addition1\obj\Debug\net6.0\Addition1.csproj.AssemblyReference.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Addition1\obj\Debug\net6.0\Addition1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Addition1\obj\Debug\net6.0\Addition1.AssemblyInfoInputs.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Addition1\obj\Debug\net6.0\Addition1.AssemblyInfo.cs
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Addition1\obj\Debug\net6.0\Addition1.csproj.CoreCompileInputs.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Addition1\obj\Debug\net6.0\Addition1.dll
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Addition1\obj\Debug\net6.0\refint\Addition1.dll
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Addition1\obj\Debug\net6.0\Addition1.pdb
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Addition1\obj\Debug\net6.0\Addition1.genruntimeconfig.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 2\Addition1\obj\Debug\net6.0\ref\Addition1.dll
